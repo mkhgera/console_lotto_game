@@ -1,0 +1,3 @@
+interface RandomNum {
+   void luckyNumsRandom();
+}
